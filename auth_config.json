@@ -1,0 +1,14 @@
+{
+  "domain": "<DOMAIN>",
+  "clientId": "<CLIENT-ID>",
+  "domainOrgMapping" : [
+    {
+      "domain" : "<DOMAIN-A>",
+      "orgId" : "<ORG-ID-A>"
+    },
+    {
+      "domain" : "<DOMAIN-B>",
+      "orgId" : "<ORG-ID-B>"
+    }
+  ]
+}
